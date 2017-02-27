@@ -1,4 +1,4 @@
-Git is easy. Git is fun. Thanks Linus!
+Git is easy. Git is fun. Thanks Linux!
 
 * Avro
 * Harrier
